@@ -1,0 +1,7 @@
+body{background-image: url(../imagens/back-pc.jpg);}
+
+#phone {display: none;}
+#tablet{display: none;}
+#pc{display: block;}
+#tv{display: none;}
+#print{display: none;}
