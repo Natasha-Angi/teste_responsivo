@@ -1,4 +1,4 @@
-body{background-image: url(../imagens/back-pc.jpg);}
+body{background-image: url(./imagens/back-pc.jpg);}
 
 #phone {display: none;}
 #tablet{display: none;}
