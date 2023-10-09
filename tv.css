@@ -1,4 +1,4 @@
-body{background-image: url(./imagens/back-tv.jpg);}
+body{background-image: url("./imagens/back-tv.jpg");}
 
 #phone {display: none;}
 #tablet{display: none;}
